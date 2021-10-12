@@ -9,9 +9,6 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<br>
-<br>
-
 ![Warkeys github stats](https://github-readme-stats.vercel.app/api?username=warkeys&show_icons=true&hide_border=true&theme=radical)
 
 
