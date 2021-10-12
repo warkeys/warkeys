@@ -23,7 +23,7 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/php-laravel-blue)
+![](https://img.shields.io/badge/php-laravel-red)
 ![](https://img.shields.io/badge/javascript-javascript-yellow)
 
 JAVASCRIPT - JQUERY - MYSQL - GIT - LARAVEL
