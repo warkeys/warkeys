@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://github.com/warkeys">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warkeys&theme=cobalt" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warkeys&theme=synthwave" />
 </a>
 
 <br>
