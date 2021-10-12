@@ -10,7 +10,7 @@
 
 <br>
 
-![Warkeys github stats](https://github-readme-stats.vercel.app/api?username=warkeys&show_icons=true&hide_border=true&theme=merko)
+![Warkeys github stats](https://github-readme-stats.vercel.app/api?username=warkeys&show_icons=true&hide_border=true&theme=onedark)
 
 
 
@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://github.com/warkeys">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warkeys&theme=dark" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warkeys&theme=cobalt" />
 </a>
 
 <br>
