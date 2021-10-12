@@ -13,7 +13,7 @@
 ![Warkeys github stats](https://github-readme-stats.vercel.app/api?username=warkeys&show_icons=true&hide_border=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warkeys&layout=compact)](https://github.com/warkeys)
 
 <a href="https://github.com/warkeys">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=warkeys&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Warkeys GitHub Stats" />
