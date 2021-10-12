@@ -23,3 +23,4 @@
 
 ## 💼 Skills
 
+JAVASCRIPT - JQUERY - MYSQL - GIT - LARAVEL
