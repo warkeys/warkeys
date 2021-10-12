@@ -1,20 +1,4 @@
-### Hi there 👋
-
-**warkeys/warkeys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-[![Braydon's GitHub Banner](https://i.imgur.com/Fj7F6RH.png)](https://braydoncoyer.dev)
+[![Warkeys GitHub Banner](https://i.imgur.com/Fj7F6RH.png)](https://github.com/warkeys)
 
 [![Visits Badge](https://badges.pufler.dev/visits/warkeys/warkeys)](https:braydoncoyer.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
@@ -29,7 +13,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![YOURNAME github stats](https://github-readme-stats.vercel.app/api?username=warkeys&show_icons=true&hide_border=true)
+![Warkeys github stats](https://github-readme-stats.vercel.app/api?username=warkeys&show_icons=true&hide_border=true)
 
 
 
