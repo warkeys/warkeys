@@ -27,4 +27,4 @@
 ![](https://img.shields.io/badge/front-javascript-yellow)...
 ![](https://img.shields.io/badge/front-bootstrap-blue)
 
-JAVASCRIPT - JQUERY - MYSQL - GIT - LARAVEL
+JAVASCRIPT - JQUERY - MYSQL - GIT - LARAVEL 
